@@ -8,6 +8,3 @@ public class hilos {
         //maldita liga
     }
 }
-
-
-c
