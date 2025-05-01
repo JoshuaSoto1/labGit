@@ -5,6 +5,6 @@ public class hilos {
         System.out.println("Hola, mundo");
 
 
-        maldita liga
+        //maldita liga
     }
 }
